@@ -200,6 +200,20 @@
           "id": 1,
           "pontuacao": 3
         }
+      ],
+      "interesses":[
+        {  
+        "id": 1,
+          "nome": "Jogos de tabuleiro"
+        },
+        {  
+        "id": 2,
+          "nome": "RPG de Mesa"
+        },
+        {  
+        "id": 3,
+          "nome": "Praticar esportes"
+        }
       ]
     }
   ]
