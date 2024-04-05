@@ -144,7 +144,7 @@
       "nome": "Thiago Silvany de Azevedo",
       "email": "thiagosilvany00@gmail.com",
       "telefone": "71 99175-0118",
-      "urlProfile": "",
+      "urlProfile": "https://avatars.githubusercontent.com/u/126682447?v=4",
       "bio": "Sou atualmente um programador em início de carreira, buscando desenvolver habilidades em front-end, back-end e banco de dados. Atualmente estou cursando o 3º semestre do curso de Análise e Desenvolvimento de Sistemas na UNIFACS e também estou estagiando na área de desenvolvimento na ADN Tecnologia.",
       "redeSocial": [
         {
@@ -214,6 +214,21 @@
         "id": 3,
           "nome": "Praticar esportes"
         }
+      ],
+      "idiomas":[
+        {  
+        "id": 1,
+          "nome": "Portugues",
+          "nivel":"Nativo",
+          "pontuacao": 5
+        },
+        {  
+        "id": 2,
+          "nome": "Inglês",
+          "nivel":"Intermediario",
+          "pontuacao": 3
+        }
+       
       ]
     }
   ]
