@@ -225,13 +225,13 @@
         "id": 1,
           "nome": "Portugues",
           "nivel":"Nativo",
-          "pontuacao": 5
+          "pontuacao": 10
         },
         {  
         "id": 2,
           "nome": "Inglês",
           "nivel":"Intermediario",
-          "pontuacao": 3
+          "pontuacao": 6
         }
        
       ]
