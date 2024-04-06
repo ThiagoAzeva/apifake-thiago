@@ -206,43 +206,41 @@
           "pontuacao": 3
         }
       ],
-      "interesses":[
-        {  
-        "id": 1,
+      "interesses": [
+        {
+          "id": 1,
           "nome": "Jogos de tabuleiro"
         },
-        {  
-        "id": 2,
+        {
+          "id": 2,
           "nome": "RPG de Mesa"
         },
-        {  
-        "id": 3,
+        {
+          "id": 3,
           "nome": "Praticar esportes"
         }
       ],
-      "idiomas":[
-        {  
-        "id": 1,
+      "idiomas": [
+        {
+          "id": 1,
           "nome": "Portugues",
-          "nivel":"Nativo",
+          "nivel": "Nativo",
           "pontuacao": 10
         },
-        {  
-        "id": 2,
+        {
+          "id": 2,
           "nome": "Inglês",
-          "nivel":"Intermediario",
+          "nivel": "Intermediario",
           "pontuacao": 6
         }
-       
       ],
-      "projetos"[
-      {
-        "id": 1,
-        "nome": "Curriculo",
-        "descricao": "Uma aplicação web para apresentar nossas habilidades e conhecimentos, apresentar meios de contato, alem de apresentar um pouco da pessoa."
-      }
+      "projetos":[
+        {
+          "id": 1,
+          "nome": "Curriculo",
+          "descricao": "Uma aplicação web para apresentar nossas habilidades e conhecimentos, apresentar meios de contato, alem de apresentar um pouco da pessoa."
+        }
       ]
-      ] 
- 
+    }
   ]
 }
